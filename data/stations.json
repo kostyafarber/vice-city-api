@@ -1,0 +1,378 @@
+{
+    "stations": [
+        {
+            "dj": "Adam First (Jamie Canfield)",
+            "songs": [
+                {
+                    "artist": "Frankie Goes to Hollywood",
+                    "song": "Two Tribes"
+                },
+                {
+                    "artist": "Tears For Fears",
+                    "song": "Pale Shelter"
+                },
+                {
+                    "artist": "Kim Wilde",
+                    "song": "Kids in America"
+                },
+                {
+                    "artist": "Blondie",
+                    "song": "Atomic"
+                },
+                {
+                    "artist": "A Flock of Seagulls",
+                    "song": "I Ran (So Far Away)"
+                },
+                {
+                    "artist": "The Human League",
+                    "song": "(Keep Feeling) Fascination"
+                },
+                {
+                    "artist": "Nena",
+                    "song": "99 Luftballoons"
+                },
+                {
+                    "artist": "The Psychedelic Furs",
+                    "song": "Love My Way"
+                },
+                {
+                    "artist": "Spandau Ballet",
+                    "song": "Gold"
+                },
+                {
+                    "artist": "Thomas Dolby",
+                    "song": "Hyperactive!"
+                },
+                {
+                    "artist": "Romeo Void",
+                    "song": "Never Say Never"
+                },
+                {
+                    "artist": "Corey Hart",
+                    "song": "Sunglasses at Night"
+                }
+            ],
+            "station_name": "Wave 103"
+        },
+        {
+            "dj": "Toni (Maria Chambers)",
+            "songs": [
+                {
+                    "artist": "Hall & Oates",
+                    "song": "Out of Touch"
+                },
+                {
+                    "artist": "Electric Light Orchestra",
+                    "song": "Four Little Diamonds"
+                },
+                {
+                    "artist": "The Outfield",
+                    "song": "Your Love"
+                },
+                {
+                    "artist": "Talk Talk",
+                    "song": "Life's What You Make It"
+                },
+                {
+                    "artist": "Bryan Adams",
+                    "song": "Run to You"
+                },
+                {
+                    "artist": "Wang Chung",
+                    "song": "Dance Hall Days"
+                },
+                {
+                    "artist": "Go West",
+                    "song": "Call Me"
+                },
+                {
+                    "artist": "Laura Branigan",
+                    "song": "Self Control"
+                },
+                {
+                    "artist": "INXS",
+                    "song": "Kiss the Dirt (Falling Down the Mountain)"
+                },
+                {
+                    "artist": "Yes",
+                    "song": "Owner of a Lonely Heart"
+                }
+            ],
+            "station_name": "Flash FM"
+        },
+        {
+            "dj": "Mr. Magic (John Rivas)",
+            "songs": [
+                {
+                    "artist": "Grandmaster Flash-The Furious Five",
+                    "song": "The Message"
+                },
+                {
+                    "artist": "Zapp + Roger",
+                    "song": "More Bounce to the Ounce"
+                },
+                {
+                    "artist": "Davy DMX",
+                    "song": "One For the Treble"
+                },
+                {
+                    "artist": "Mantronix",
+                    "song": "Bassline"
+                },
+                {
+                    "artist": "Man Parrish",
+                    "song": "Hip Hop Be Bop (Don't Stop)"
+                },
+                {
+                    "artist": "Hashim",
+                    "song": "Al-Naafiysh (The Soul)"
+                },
+                {
+                    "artist": "Cybotron",
+                    "song": "Clear"
+                },
+                {
+                    "artist": "Run DMC",
+                    "song": "Rock Box"
+                },
+                {
+                    "artist": "Kurtis Blow",
+                    "song": "The Breaks"
+                },
+                {
+                    "artist": "Whodini",
+                    "song": "Magic's Wand"
+                }
+            ],
+            "station_name": "Wildstyle Pirate Radio"
+        },
+        {
+            "dj": "Fernando Martinez (Frank Chavez)",
+            "songs": [
+                {
+                    "artist": "Toto",
+                    "song": "Africa"
+                },
+                {
+                    "artist": "Jan Hammer",
+                    "song": "Crockett's Theme"
+                },
+                {
+                    "artist": "Cutting Crew",
+                    "song": "(I Just) Died in Your Arms"
+                },
+                {
+                    "artist": "Foreigner",
+                    "song": "Waiting For a Girl Like You"
+                },
+                {
+                    "artist": "Mr. Mister",
+                    "song": "Broken Wings"
+                },
+                {
+                    "artist": "Roxy Music",
+                    "song": "More Than This"
+                },
+                {
+                    "artist": "Squeeze",
+                    "song": "Tempted"
+                },
+                {
+                    "artist": "REO Speedwagon",
+                    "song": "Keep on Loving You"
+                },
+                {
+                    "artist": "Night Ranger",
+                    "song": "Sister Christian"
+                },
+                {
+                    "artist": "Luther Vandross",
+                    "song": "Never Too Much"
+                }
+            ],
+            "station_name": "Emotion 98.3"
+        },
+        {
+            "dj": "Oliver \"Ladykiller\" Biscuit (Julius Dyson)",
+            "songs": [
+                {
+                    "artist": "The Whispers",
+                    "song": "And the Beat Goes On"
+                },
+                {
+                    "artist": "Fat Larry's Band",
+                    "song": "Act Like You Know"
+                },
+                {
+                    "artist": "Oliver Cheatham",
+                    "song": "Get Down Saturday Night"
+                },
+                {
+                    "artist": "Pointer Sisters",
+                    "song": "Automatic"
+                },
+                {
+                    "artist": "Ren\u00e9 & Angela",
+                    "song": "I'll Be Good"
+                },
+                {
+                    "artist": "Mary Jane Girls",
+                    "song": "All Night Long"
+                },
+                {
+                    "artist": "Rick James",
+                    "song": "Ghetto Life"
+                },
+                {
+                    "artist": "Evelyn Champagne King",
+                    "song": "Shame"
+                },
+                {
+                    "artist": "Teena Marie",
+                    "song": "Behind the Groove"
+                },
+                {
+                    "artist": "Mtume",
+                    "song": "Juicy Fruit"
+                },
+                {
+                    "artist": "Kool & the Gang",
+                    "song": "Summer Madness"
+                },
+                {
+                    "artist": "Indeep",
+                    "song": "Last Night a DJ Saved My Life"
+                }
+            ],
+            "station_name": "Fever 105"
+        },
+        {
+            "dj": "Lazlow (voiced by himself)",
+            "songs": [
+                {
+                    "artist": "Judas Priest",
+                    "song": "You've Got Another Thing Coming"
+                },
+                {
+                    "artist": "Motley Crue",
+                    "song": "Too Young to Fall in Love"
+                },
+                {
+                    "artist": "Megadeth",
+                    "song": "Peace Sells"
+                },
+                {
+                    "artist": "Rockstar's Lovefist",
+                    "song": "Dangerous Bastard"
+                },
+                {
+                    "artist": "Autograph",
+                    "song": "Turn Up the Radio"
+                },
+                {
+                    "artist": "Twisted Sister",
+                    "song": "I Wanna Rock"
+                },
+                {
+                    "artist": "Anthrax",
+                    "song": "Madhouse"
+                },
+                {
+                    "artist": "Iron Maiden",
+                    "song": "2 Minutes to Midnight"
+                },
+                {
+                    "artist": "Slayer",
+                    "song": "Raining Blood"
+                },
+                {
+                    "artist": "Tesla",
+                    "song": "Comin 'Atcha Live"
+                },
+                {
+                    "artist": "David Lee Rose",
+                    "song": "Yankee Rose"
+                }
+            ],
+            "station_name": "V-Rock"
+        },
+        {
+            "dj": "Pepe (Tony Chiroldes)",
+            "songs": [
+                {
+                    "artist": "Cachao",
+                    "song": "A Gozar Con Mi Combo"
+                },
+                {
+                    "artist": "Alpha Banditos",
+                    "song": "The Bull is Wrong"
+                },
+                {
+                    "artist": "Tres Apenas Como Eso",
+                    "song": "Yo Te Mir\u00e9"
+                },
+                {
+                    "artist": "Deodato",
+                    "song": "Latin Flute"
+                },
+                {
+                    "artist": "Mongo Santamar\u00eda",
+                    "song": "Mama Papa T\u00fa"
+                },
+                {
+                    "artist": "Mongo Santamar\u00eda",
+                    "song": "Me and You Baby"
+                },
+                {
+                    "artist": "Machito and his Afro-Cuban Orchestra",
+                    "song": "Mambo\nMucho Mambo"
+                },
+                {
+                    "artist": "Unaesta",
+                    "song": "La Vida Es Una Lenteja"
+                },
+                {
+                    "artist": "Lonnie Liston Smith",
+                    "song": "Expansions"
+                },
+                {
+                    "artist": "Deodato",
+                    "song": "Super Strut"
+                },
+                {
+                    "artist": "Xavier Cugat and his Orchestra",
+                    "song": "Jamay"
+                },
+                {
+                    "artist": "Benny Mor\u00e9",
+                    "song": "Maracaibo Oriental"
+                },
+                {
+                    "artist": "Tito Puente",
+                    "song": "Mambo Goz\u00f3n"
+                }
+            ],
+            "station_name": "Radio Espantoso"
+        },
+        {
+            "dj": "Jonathan Freeloader and Michelle Montanius",
+            "songs": [
+                {
+                    "artist": "Talk radio, with no music",
+                    "song": "Talk radio, with no music"
+                }
+            ],
+            "station_name": "VCPR"
+        },
+        {
+            "dj": "Amy Sheckenhausen (Leyna Weber)",
+            "songs": [
+                {
+                    "artist": "Talk radio, with no music",
+                    "song": "Talk radio, with no music"
+                }
+            ],
+            "station_name": "K-Chat"
+        }
+    ]
+}

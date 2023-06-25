@@ -1,0 +1,12 @@
+{
+    "stations:" : {
+        "Wave 103": {
+            "DJ": "",
+            "songs": [""]
+        },
+        "Flash FM": {
+            "DJ": "",
+            "songs": [{"artist": "", "song_name": ""}]
+        } 
+    }
+}
