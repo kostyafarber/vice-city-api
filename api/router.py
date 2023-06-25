@@ -18,7 +18,7 @@ async def get_stations() -> Stations:
 async def get_specific_station(station_name: str) -> Station:
     stations = stations_json["stations"]
 
-    if station_name not in stations:
+    if station_name not in [station['station_name'] for station in stations]:
         raise HTTPException(404, f"{station_name} does not exist in Vice City")
     
     return next(station for station in stations if station["station_name"] == station_name)
