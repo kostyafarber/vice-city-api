@@ -1,8 +1,11 @@
 from fastapi import FastAPI
-from schemas import Stations, Station
+from api.schemas import Stations, Station
 import json
+import os
 
-with open("../data/stations.json") as f:
+dirname = os.path.dirname(__file__)
+data = os.path.join(dirname, os.pardir, 'data/stations.json')
+with open(data) as f:
     stations_json = json.load(f)
 
 app = FastAPI()
