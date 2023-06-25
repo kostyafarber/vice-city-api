@@ -11,6 +11,10 @@ uvicorn api.router:app --reload
 ```
 
 ### All stations
-
-### Some stations
-
+```shell
+curl -X GET http://127.0.0.1:8000/stations/
+```
+### Specific station
+```shell
+curl -X GET http://127.0.0.1:8000/stations/K-Chat
+```
