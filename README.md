@@ -1,7 +1,9 @@
 # Vice City API
 "It's Lazlow on V-ROCK!"
 
-![Alt text](image.png)
+<p align="center">
+  <img src="https://github.com/kostyafarber/vice-city-api/assets/73378227/7d8f906f-baab-4ac7-ae50-0b56cc5e34d1"/>
+</p>
 
 ## Docmentation
 https://vice-city-api-kostyafarber.koyeb.app/docs
